@@ -1,0 +1,53 @@
+
+section{
+    border: solid rgb(90, 83, 160);
+    margin: 100px;
+    background-color: rgb(158, 134, 180);
+    border-radius: 250px;
+    min-height: 300px;
+    
+}
+body{
+    background-image: url('images/AnimeBackground.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    text-align: center;
+}
+h3, h1{
+    text-decoration: underline;
+    text-align: center;
+}
+li{
+    border: solid black;
+    margin-left: 450px ;
+    margin-right: 450px ;
+}
+#Ratings{
+    background-color: rgb(84, 161, 224);
+}
+#Five{
+    background-color: rgb(50, 164, 184);
+}
+#Four{
+    background-color: rgb(89, 89, 182);
+}
+img{
+    height: 350px;
+    width: 350px;
+    display: flex;
+    border-radius: 50px;
+    margin-left: 125px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.text{
+    max-width: 1000px;
+    text-align: center;
+    margin-left: 0px;
+    line-height: 2;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
