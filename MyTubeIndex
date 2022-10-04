@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyTube</title>
+</head>
+<body>
+<nav>
+  <a href="./index.html">Home</a>
+  <a href="./form.html">Upload</a> 
+  <a href="./pages/AnimeOP.html">Anime Fan Theories</a>
+  <a href="./pages/bakimanga.html">Baki Manga</a>
+  <a href="./pages/yugioh.html">Yugioh</a>
+</nav>
+<h1>Featured Videos!</h1>
+
+<h3>From the <a href="./pages/bakimanga.html">Baki Manga Collection</a></h3>
+<iframe width="250" height="250" src="https://www.youtube.com/embed/mI9oxVuxQbU?list=PLhJPJwgwXmHhkrIl-_sOlPwN9bkedeM_Q" title="The Birth of Nomi No Sukune, the God of Sumo!! - Grand Sumo Battle Arc (Review/Recap)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<h4><a href="../videos/baki/baki1.html">God of Sumo Arc </a></h4><hr>
+<h3>From the <a href="./pages/AnimeOP.html">Anime Fan Theory Collection</a></h3>
+<iframe width="250" height="250" src="https://www.youtube.com/embed/eyPqm3vrYp4" title="WHY IS OLIVA BISCUIT IN PRISON?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<h4><a href="../videos/anime/anime1.html">WHY IS OLIVA BISCUIT IN PRISON?</a></h4><hr>
+<h3>From the <a href="./pages/yugioh.html">Yugioh Collection</a></h3>
+<iframe width="250" height="250" src="https://www.youtube.com/embed/mq306KH1HwM" title="Everyone thought this Yu-Gi-Oh! set was BAD | PROFIT OR FORFEIT #15" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<h4><a href="../videos/yugioh/yugioh1.html">Profit or Forfeit #15 </a></h4><hr>
+<footer> &copy: Copyright"</footer>
+</body>
+</html>
